@@ -16,6 +16,6 @@ let x = "new messge"
 console.log(x);
 ```
 
-References are important[^1]
+References are important[^1].
 
-[^1]This is the reference
+[^1]: This is the reference.
